@@ -29,7 +29,7 @@
 
 ## 📦 Deployment
 Deployed via **GitHub Pages**  
-🔗 (https://willyvn.github.io/travel-site/)
+🔗 ([https://willyvn.github.io/travel-site/](https://willyvn.github.io/travel/))
 
 ---
 
